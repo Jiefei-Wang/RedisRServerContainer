@@ -9,7 +9,7 @@ The server accept the following environment variable on startup
 ## example
 Build the server image with
 ```
-docker build -t redis_server_image redis_server_image/.
+docker build -t redis_server_image .
 ```
 Run the server in the foreground with the following arguments
 ```
